@@ -8,6 +8,9 @@ Provide metrics to customers with at most one hour delay.
 Run with minimum downtime.
 Have the ability to reprocess historical data in case of bugs in the processing logic.
 
+## System Design Diagram
+![system-design-image](https://github.com/goelshubham1509/system-design-paytm/blob/master/paytm-Page-1.png)
+
 ## Analysis of given requirements 
 ### Functional Requirements
 - The system should gather and process events data that is generated on the client's webpage or mobile application.
